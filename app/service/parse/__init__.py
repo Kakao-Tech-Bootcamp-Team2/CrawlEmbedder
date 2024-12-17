@@ -1,0 +1,1 @@
+from .data_parse import parse_scrap_data,parse_scrap_id
